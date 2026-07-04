@@ -27,8 +27,6 @@ Usage
     python gesture_arm_controller.py                 # with Arduino attached
     python gesture_arm_controller.py --no-serial     # vision only, no hardware
     python gesture_arm_controller.py --port COM5     # override serial port
-
-Author: Osinachi Mbakamma
 """
 
 import argparse
