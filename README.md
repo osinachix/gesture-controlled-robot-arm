@@ -147,7 +147,3 @@ A few things a reviewer should know, kept here rather than hidden:
   itself is unchanged from what ran on the physical arm.
 - Original firmware iterations are preserved in `firmware/archive/` with a note
   explaining each.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
