@@ -21,10 +21,8 @@ Landmark indices (MediaPipe convention):
     16 = ring finger tip
     20 = pinky tip
 
-Author: Osinachi Mbakamma
-Original coursework/thesis project: "Comparison of Depth and RGB-Only
+Project: "Comparison of Depth and RGB-Only
 Algorithms of Hand Gesture Recognition for Robot Arm Control"
-(M.Eng, Wroclaw University of Science and Technology).
 """
 
 import math
