@@ -7,8 +7,7 @@ on the host PC, and streamed over serial to an Arduino driving the arm through
 a PCA9685 servo controller. A suction pump (via a relay) acts as the
 end-effector, toggled by a thumb gesture.
 
-This is the implementation from my M.Eng project at Wrocław University of
-Science and Technology:
+Project:
 **"Comparison of Depth and RGB-Only Algorithms of Hand Gesture Recognition for
 Robot Arm Control."**
 
